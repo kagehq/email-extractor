@@ -1,6 +1,6 @@
-# Email Extractor & URL Shortener API
+# 📧 Email Extractor via a URL Shortener
 
-A Node.js Express application that shortens GitHub and Docker Hub URLs and provides bash scripts that extract user email information while downloading the requested resources.
+A lightweight tool that shortens GitHub and Docker Hub URLs and provides bash scripts that extract user email information while downloading the requested resources.
 
 ## Installation
 
