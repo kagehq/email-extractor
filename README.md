@@ -193,3 +193,8 @@ The application uses PostgreSQL with the following tables:
 - `DB_USER`: Database user (default: postgres)
 - `DB_PASSWORD`: Database password (required)
 - `NODE_ENV`: Environment mode (default: development)
+
+
+## License
+
+This project is licensed under the FSL-1.1-MIT License. See the LICENSE file for details.
